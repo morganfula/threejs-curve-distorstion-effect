@@ -2,7 +2,7 @@
 	"name": "threejs-curve-distorstion-effect",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "index.html",
 	"scripts": {
 		"start": "parcel index.html --open",
 		"build": "parcel build index.html --public-url ./"
