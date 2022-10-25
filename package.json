@@ -11,6 +11,7 @@
 	"author": "morgasmatron",
 	"license": "ISC",
 	"dependencies": {
+		"@parcel/transformer-glsl": "^2.7.0",
 		"three": "^0.137.5"
 	},
 	"devDependencies": {
