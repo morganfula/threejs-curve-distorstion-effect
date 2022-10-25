@@ -8,7 +8,7 @@
 		"build": "parcel build index.html --public-url ./"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "morgasmatron",
 	"license": "ISC",
 	"dependencies": {
 		"three": "^0.137.5"
